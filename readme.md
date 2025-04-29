@@ -40,3 +40,8 @@ Through building this project, I learned:
 The favicon used is a clock icon:
 ```html
 <link rel="icon" href="../assets/clock-svgrepo-com.svg" type="image/x-icon" />
+```
+
+# Screenshot
+
+![image](Screenshot.png)
