@@ -1,6 +1,6 @@
 # 🕒 Digital Clock
 
-# Project  [Live Link](https://bg-changer-using-react-murex.vercel.app/)
+# Project  [Live Link](https://dgital-clock-using-html-css-js.vercel.app/)
 
 A sleek, responsive **Digital Clock** built using **HTML**, **Tailwind CSS**, and **JavaScript**. It displays the current time in `HH:MM:SS AM/PM` format and updates in real-time.
 
